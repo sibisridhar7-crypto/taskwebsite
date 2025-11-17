@@ -1,0 +1,1078 @@
+header{
+    background-color: white;
+    height: 150px;
+    margin-top: -10px;
+    
+}
+
+img{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+nav a{
+    margin-left: 25px;
+    color: gray;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+nav{
+    margin-left: 50%;
+    margin-top: -40px;
+    
+}
+.trynow{
+    color: rgb(29, 179, 91);
+    border: 2px solid rgb(29, 179, 91);
+    border-radius: 20px;
+    padding: 10px;
+}
+.headerimage{
+    margin-left:0;
+    width: 100%;
+    margin-top: 0px;
+}
+h1{
+    position: absolute;
+    bottom: 120px;
+    left: 500px;
+    font-family: sans-serif;
+    font-size: 100px;
+    color:black;
+}
+p{
+    position: absolute;
+    bottom: 140px;
+    left: 475px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+.tn{
+    position: absolute;
+    bottom: 60px;
+    left: 465px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    border: 2px;
+    border-radius: 100px;
+    padding: 15px 45px;
+    background-color: rgb(29, 179, 91);
+}
+.ln{
+     position: absolute;
+    bottom: 60px;
+    left: 680px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: gray;
+    border: 2px solid gray;
+    border-radius: 100px;
+    padding: 15px 35px;
+}
+.ln:hover{
+    background-color: black;
+    color:white;
+}
+
+
+.section2{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+    margin-top: -5px;
+}
+.wic{
+    position: absolute;
+    bottom: -415px;
+    left: 475px;
+    font-family: sans-serif;
+    font-size: 50px;
+    color:black;
+    
+}
+.psection2{
+   position: absolute;
+    bottom: -445px;
+    left: 540px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: gray; 
+}
+.videoposter{
+    position: absolute;
+    bottom: -970px;
+    left: 210px;
+}
+.begin{
+  position: absolute;
+    bottom: -1100px;
+    left: 600px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    border: 2px;
+    border-radius: 100px;
+    padding: 15px 70px;
+    background-color: rgb(29, 179, 91);  
+}
+.section3{
+    background-color: whitesmoke;
+    height: 770px;
+    width: 100%;
+    margin-top: -5px;
+}
+.service{
+   position: absolute;
+    bottom: -1380px;
+    left: 560px;
+    font-family: sans-serif;
+    font-size: 50px;
+    color:black;  
+}
+.psection3{
+    position: absolute;
+    bottom: -1400px;
+    left: 560px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: green; 
+}
+.container1{
+    position: absolute;
+    bottom:-1850px;
+    left: 110px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+
+}
+.container1:hover{
+   box-shadow: 5px 5px 5px 5px gray;
+}
+.c1{
+    font-size: 20px;
+    bottom: 200px;
+    left: 70px;
+    
+}
+.pc1{
+  position: absolute;
+  font-family: sans-serif; 
+  bottom: 100px;
+  left: 10px;
+  text-align: center;
+}
+.h2c1{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 17px;
+    bottom: 40px;
+    left: 115px;
+    color: rgb(29, 179, 91);
+}
+.pencil{
+    border: 2px solid gray;
+    border-radius: 50%;
+    padding: 25px 25px;
+    background-color: whitesmoke;
+}
+
+
+.container2{
+    position: absolute;
+    bottom:-1850px;
+    left: 510px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+
+}
+.container2:hover{
+   box-shadow: 5px 5px 5px 5px gray;
+
+}
+.c2{
+    font-size: 20px;
+    bottom: 200px;
+    left: 90px;
+    
+}
+.pc2{
+  position: absolute;
+  font-family: sans-serif; 
+  bottom: 100px;
+  left: 10px;
+  text-align: center;
+}
+.h2c2{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 17px;
+    bottom: 40px;
+    left: 115px;
+    color: rgb(29, 179, 91);
+}
+.camera{
+    border: 2px solid gray;
+    border-radius: 50%;
+    padding: 25px 25px;
+    background-color: whitesmoke;;
+}
+
+
+.container3{
+    position: absolute;
+    bottom:-1850px;
+    left: 910px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+
+}
+.container3:hover{
+   box-shadow: 5px 5px 5px 5px gray;
+
+}
+.c3{
+    font-size: 20px;
+    bottom: 200px;
+    left: 100px;
+    
+}
+.pc3{
+  position: absolute;
+  font-family: sans-serif; 
+  bottom: 100px;
+  left: 10px;
+  text-align: center;
+}
+.h2c3{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 17px;
+    bottom: 40px;
+    left: 115px;
+    color: rgb(29, 179, 91);
+}
+.flime{
+    border: 2px solid gray;
+    border-radius: 50%;
+    padding: 25px 25px;
+    background-color: whitesmoke;
+    top: 50px;
+}
+
+.section4{
+    width: 50%;
+    height:600px;
+    background-color: white;
+}
+.bulb{
+    position: absolute;
+    left: 50px;
+    bottom: -2500px;
+}
+.s4div{
+    position: absolute;
+    background-color: brown;
+    bottom: -2572px;
+    left: 700px;
+    background-color: white;
+    height: 600px;
+    width: 650px;
+}
+.h2s4{
+    position: absolute;
+    font-size: 45px;
+    font-family: sans-serif;
+    bottom:350px ;
+}
+h3{
+    position: absolute;
+    bottom: 340px;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: rgb(29, 179, 91);
+}
+.s4divp{
+    position: absolute;
+    bottom: 70px;
+    left: 0px;
+    text-align: left;
+    color: black;
+}
+.section5{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(29, 179, 91);
+}
+.eye{
+    position: absolute;
+    bottom: -2885px;
+    left: 200px;
+    height: 200px;
+    width: 450px;
+}
+.eyeimg{
+    position: absolute;
+    bottom: 120px;
+    left: -110px ;
+}
+.h2s5{
+    position: absolute;
+    left: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.s5p{
+    position: absolute;
+    left: 100px;
+    bottom: 35px;
+    color: white;
+    font-size: 18px;
+}
+.clock{
+    position: absolute;
+    bottom: -2885px;
+    left: 720px;
+    height: 200px;
+    width: 450px;
+}
+.clockimg{
+    position: absolute;
+    bottom: 85px;
+    left: -110px ;
+}
+.h2s501{
+    position: absolute;
+    left: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.s5p01{
+    position: absolute;
+    left: 100px;
+    bottom: 35px;
+    color: white;
+    font-size: 18px;
+}
+.dashboard{
+    position: absolute;
+    bottom: -3100px;
+    left: 200px;
+    height: 200px;
+    width: 450px;
+}
+.dashboardimg{
+    position: absolute;
+    bottom: 100px;
+    left: -110px ;
+}
+.h2s502{
+    position: absolute;
+    left: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.s5p02{
+    position: absolute;
+    left: 100px;
+    bottom: 35px;
+    color: white;
+    font-size: 18px;
+}
+.headset{
+    position: absolute;
+    bottom: -3100px;
+    left: 720px;
+    height: 200px;
+    width: 450px;
+}
+.headsetimg{
+    position: absolute;
+    bottom: 80px;
+    left: -110px ;
+}
+.h2s503{
+    position: absolute;
+    left: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.s5p03{
+    position: absolute;
+    left: 100px;
+    bottom: 35px;
+    color: white;
+    font-size: 18px;
+}
+.talk{
+    background-color:white;
+    height: 650px;
+    width: 100%;
+} 
+.th2{
+    position: absolute;
+    bottom: 400px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.talk1{
+    position: absolute;
+    bottom: -3750px;
+    left: 170px;
+    height: 500px;
+    width: 500px;
+    background-color: white;
+}
+.th3{
+    position: absolute;
+    top: 70px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.tp{
+    position: absolute;
+    left: 0px;
+    bottom: 250px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.checkmark{
+    position: absolute;
+    top:250px ;
+    left: -100px;
+}   
+.cmp1{
+    position: absolute;
+    top: 254px;
+    left: 30px;
+    font-size: 17px;
+}
+.checkmark1{
+    position: absolute;
+    top:320px ;
+    left: -100px;
+    font-size: 17px; 
+}
+.cmp2{
+    position: absolute;
+    top: 320px;
+    left: 30px;
+    font-size: 17px;
+}
+.checkmark2{
+    position: absolute;
+    top:365px ;
+    left: -100px; 
+}
+.cmp3{
+    position: absolute;
+    top: 360px;
+    left: 30px;
+    font-size: 17px;
+}
+.checkmark3{
+    position: absolute;
+    top:400px ;
+    left: -100px; 
+}
+.cmp4{
+    position: absolute;
+    top: 400px;
+    left: 30px;
+    font-size: 17px;
+}
+.cb{
+    position: absolute;
+    top: 3950px;
+    left: 700px;
+}
+.cardcontainer{
+    width: 100%;
+    height: 900px;
+    background-color: whitesmoke;
+}
+.h1card{
+    position: absolute;
+    top: 4540px;
+    left: 560px;
+    text-align: center;
+    font-size: 54px;
+}
+.ccp{
+    position: absolute;
+    top: 4640px;
+    left: 620px;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    color:  rgb(29, 179, 91);
+}
+.ccteam1{
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    top: 4900px;
+    left: 100px;
+}
+.ccteam1:hover{
+     box-shadow: 10px 10px 10px ;
+}
+.h1team1{
+    font-size: 20px;
+    font-family: sans-serif;
+    left: 110px;
+    bottom: 180px;
+}
+.pteam1{
+   font-size: 18px;
+    font-family: sans-serif;
+    left: 120px;
+    top: 170px;
+}
+.team1img{
+    position: absolute;
+    border-radius: 150px 150px;
+    border: 2px;
+    padding: px px;
+    left: -30px;
+    bottom: 250px;
+}
+.fbt1ing{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: -30px;
+    padding: 14px 20px;
+    bottom: 30px;
+    background-color: gray;
+}
+.gt1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 40px;
+    padding: 17px 14px;
+    bottom: 30px;
+    background-color: gray;
+}
+.tw1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 110px;
+    padding: 14px 13px;
+    bottom: 30px;
+    background-color: gray;
+}
+
+.ccteam2{
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    top: 4900px;
+    left: 500px;
+}
+.ccteam2:hover{
+     box-shadow: 10px 10px 10px ;
+}
+.h1team1{
+    font-size: 20px;
+    font-family: sans-serif;
+    left: 110px;
+    bottom: 180px;
+}
+.pteam1{
+   font-size: 18px;
+    font-family: sans-serif;
+    left: 120px;
+    top: 170px;
+}
+.team1img{
+    position: absolute;
+    border-radius: 150px 150px;
+    border: 2px;
+    padding: px px;
+    left: -30px;
+    bottom: 250px;
+}
+.fbt1ing{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: -30px;
+    padding: 14px 20px;
+    bottom: 30px;
+    background-color: gray;
+}
+.gt1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 40px;
+    padding: 17px 14px;
+    bottom: 30px;
+    background-color: gray;
+}
+.tw1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 110px;
+    padding: 14px 13px;
+    bottom: 30px;
+    background-color: gray;
+}
+
+.ccteam3{
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    top: 4900px;
+    left: 900px;
+}
+.ccteam3:hover{
+     box-shadow: 10px 10px 10px ;
+}
+.h1team1{
+    font-size: 20px;
+    font-family: sans-serif;
+    left: 110px;
+    bottom: 180px;
+}
+.pteam1{
+   font-size: 18px;
+    font-family: sans-serif;
+    left: 120px;
+    top: 170px;
+}
+.team1img{
+    position: absolute;
+    border-radius: 150px 150px;
+    border: 2px;
+    padding: px px;
+    left: -30px;
+    bottom: 250px;
+}
+.fbt1ing{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: -30px;
+    padding: 14px 20px;
+    bottom: 30px;
+    background-color: gray;
+}
+.gt1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 40px;
+    padding: 17px 14px;
+    bottom: 30px;
+    background-color: gray;
+}
+.tw1img{
+    position: absolute;
+    border-radius: 40px 40px;
+    left: 110px;
+    padding: 14px 13px;
+    bottom: 30px;
+    background-color: gray;
+}
+.fbt1ing:hover{
+background-color: rgb(29, 179, 91);
+}
+.gt1img:hover{
+background-color: rgb(29, 179, 91);
+}
+.tw1img:hover{
+background-color: rgb(29, 179, 91);
+}
+
+.pofo{
+    width: 100%;
+    height: 1250px;
+}
+.h1pf{
+   position: absolute;
+    top: 5430px;
+    left: 520px;
+    text-align: center;
+    font-size: 54px;
+}
+.ppf{
+    position: absolute;
+    top: 5530px;
+    left: 570px;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: rgb(29, 180, 92);
+}
+.p1timg{
+    position: absolute;
+    bottom: -5400px;
+    height: 370px;
+    left: -10px;
+    
+}
+.p2timg{
+    position: absolute;
+    bottom: -5400px;
+    left: 400px;
+    height: 370px;
+}
+.p3timg{
+    position: absolute;
+    bottom: -5400px;
+    left: 800px;
+    height: 370px;
+}
+.p4timg{
+    position: absolute;
+    bottom: -5800px;
+    left: -10px;
+    height: 370px;
+}
+.p5timg{
+    position: absolute;
+    bottom: -5800px;
+    left: 400px;
+    height: 370px;
+}
+.p6timg{
+    position: absolute;
+    bottom: -5800px;
+    left: 800px;
+    height: 370px;
+}
+.p1timg:hover{
+    opacity: 0.5;
+    
+}
+.p2timg:hover{
+    opacity: 0.5;
+    
+}
+.p3timg:hover{
+    opacity: 0.5;
+    
+}
+.p4timg:hover{
+    opacity: 0.5;
+    
+}
+.p5timg:hover{
+    opacity: 0.5;
+    
+}
+.p6timg:hover{
+    opacity: 0.5;
+    
+}
+.subscribe{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color:  rgb(29, 180, 92);
+}
+.h1sub{
+text-align: center;
+font-size: 50px;
+color: white;
+top: 80px;
+}
+.psub{
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    top: 180px;
+    left: 540px;
+}
+.fbody {
+    position: absolute;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 270px;
+  left: 350px;
+}
+.form-container {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  gap: 15px;
+}
+
+input, button {
+  border-radius: 40px;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  padding: 12px 25px;
+  font-size: 14px;
+  outline: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+input::placeholder {
+  color: white;
+  opacity: 0.8;
+}
+
+button {
+  background-color: white;
+  color: #333;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #eee;
+}
+.sectionservice{
+    height: 1070px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.h1ser{
+    position: absolute;
+    top: 7100px;
+    font-size: 54px;
+    text-align: center;
+    left: 530px;
+}
+.pser{
+    position: absolute;
+    top: 7200px;
+    left: 535px;
+    font-size: 17px;
+    color: rgb(29, 180, 92);
+}
+.sercontainer1{
+    position: absolute;
+    top: 7370px;
+    left: 130px;
+    height: 560px;
+    width: 320px;
+    background-color: white;
+}
+.ni{
+    position: absolute;
+    top: -10px;
+    left: 100px;
+    font-size: 100px;
+}
+.sercontainer2{
+    position: absolute;
+    top: 7370px;
+    left: 500px;
+    height: 560px;
+    width: 320px;
+    background-color: white;
+}
+.tw{
+    position: absolute;
+    top: -10px;
+    left: 90px;
+    font-size: 100px;
+}
+.sercontainer3{
+    position: absolute;
+    top: 7370px;
+    left: 870px;
+    height: 560px;
+    width: 320px;
+    background-color: white;
+}
+.ei{
+    position: absolute;
+    top: -10px;
+    left: 100px;
+    font-size: 100px; 
+}
+.h2serc1{
+    position: absolute;
+    top: 170px;
+    left: 120px;
+    font-size: 20px;
+    font-family: sans-serif
+}
+.h2serc2{
+    position: absolute;
+    top: 170px;
+    left: 130px;
+    font-size: 20px;
+    font-family: sans-serif
+}
+.h2serc3{
+    position: absolute;
+    top: 170px;
+    left: 150px;
+    font-size: 20px;
+    font-family: sans-serif
+}
+.h3serc1{
+    color: lightgray;
+    text-align: center;
+    
+    top: 240px;
+    font-size: 17px;
+    left: 50px;
+}
+.h3serc2{
+    color: lightgray;
+    text-align: center;
+    
+    top: 240px;
+    font-size: 17px;
+    left: 50px;
+}
+.h3serc3{
+    color: lightgray;
+    text-align: center;
+    
+    top: 240px;
+    font-size: 17px;
+    left: 50px;
+}
+.beginser1{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    padding: 20px 80px;
+    border: 2px solid gray;
+    color: gray;
+    font-size: 17px;
+}
+.beginser2{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    color: white;
+    background-color:rgb(29, 180, 92) ;
+    padding: 20px 80px;
+    font-size: 17px;
+}
+.beginser3{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    padding: 20px 80px;
+    border: 2px solid gray;
+    color: gray;
+    font-size: 17px;
+}
+.beginser1:hover{
+    background-color: black;
+    color: white;
+}
+.beginser3:hover{
+    background-color: black;
+    color: white;
+}
+.sercontainer1:hover{
+    box-shadow: 10px 10px 10px;
+}
+.sercontainer2:hover{
+    box-shadow: 10px 10px 10px;
+}
+.sercontainer3:hover{
+    box-shadow: 10px 10px 10px;
+}
+.heardenough{
+    height: 450px;
+    width: 100%;
+}
+.h1he{
+    position: absolute;
+    font-size: 50px;
+    left: 450px;
+    bottom: -7650px;
+    text-align: center;
+}
+.phe{
+     position: absolute;
+    font-size: 17px;
+    bottom: -7690px;
+    text-align: center;
+    left: 590px;
+    color: rgb(29, 180, 92) ;
+}
+.bhe{
+    position: absolute;
+    top: 8350px;
+    left: 560px;
+    color: white;
+    background-color:rgb(29, 180, 92) ;
+    padding: 20px 70px;
+    font-size: 17px;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(54, 46, 46);
+}
+.footimg{
+    position: absolute;
+    top: 8570px;
+}
+.pfoot{
+    color: white;
+    position: absolute;
+    top: 8590px;
+    left: 220px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.footp{
+    color: white;
+    position: absolute;
+    top: 8625px;
+    left: 220px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.ffb{
+    position: absolute;
+    background-color: black;
+    border-radius: 50px 50px;
+    padding: 12px 18px;
+    right: 190px;
+    top: 8600px;
+}
+.ftw{
+    position: absolute;
+    background-color: black;
+    border-radius: 50px 50px;
+    padding: 12px 10px;
+    right: 120px;
+    top: 8600px;
+}
+.fgo{
+    position: absolute;
+    background-color: black;
+    border-radius: 50px 50px;
+    padding: 16px 12px;
+    right: 50px;
+    top: 8600px; 
+}
+.ffb:hover{
+    background-color: rgb(29, 180, 92);
+}
+.ftw:hover{
+    background-color: rgb(29, 180, 92);
+}
+.fgo:hover{
+    background-color: rgb(29, 180, 92);
+}
+.footp:hover{
+    color:rgb(29, 180, 92) ;
+}
